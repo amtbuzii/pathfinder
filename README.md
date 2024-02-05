@@ -32,7 +32,7 @@ Generates a maze with random obstacles.
 ### Warehouse Grid (Type 2)
 Creates a grid with a warehouse-like maze layout.
 
-![Warehouse Grid](warehouse.pngpng)
+![Warehouse Grid](warehouse.png)
 
 ## Controls
 
